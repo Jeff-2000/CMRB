@@ -394,7 +394,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-001** — ACT-001 ou ACT-005 peut initier l’inscription. Le contrôle d’identité, la validation et l’exposition publique restent Q-011/Q-025.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -491,7 +491,7 @@ BR-001
 
 **SEC-002** — ACT-001 et ACT-002 consultent le dossier administratif; les lectures des autres profils issues de la matrice définitive restent P.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -595,7 +595,7 @@ BR-001
 
 **SEC-003** — ACT-001 modifie le dossier administratif. Cette permission n’autorise pas la correction d’une note médicale.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -698,7 +698,7 @@ BR-003
 
 **SEC-004** — Aucun acteur ne peut effacer physiquement le dossier; archivage et anonymisation suivent Q-012.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -790,7 +790,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-005** — ACT-001 et ACT-005 réservent. Le périmètre propre patient et le droit sur l’agenda restent défini par la baseline.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -887,7 +887,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-006** — ACT-001 est cité pour confirmer. Confirmation par ACT-005 non établie.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -988,7 +988,7 @@ BR-010
 
 **SEC-007** — ACT-005 choisit son canal; ACT-001 participe au rappel; rôle du déclencheur automatique arrêté pour la baseline.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1092,7 +1092,7 @@ BR-004
 
 **SEC-008** — ACT-005 peut annuler selon commentaire 171; droit accueil et dérogation tardive non fixés.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1197,7 +1197,7 @@ BR-002
 
 **SEC-009** — ACT-003 saisit les constantes selon annotation, en conflit avec EF-SEC-002 et AC-05. Aucun droit sur diagnostic déduit.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1308,7 +1308,7 @@ BR-002
 
 **SEC-010** — ACT-002 renseigne le dossier médical. L’ajout des constantes par ACT-003 exige Q-002; ajout de pièces jointes soumis au même périmètre.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1422,7 +1422,7 @@ BR-001
 
 **SEC-011** — ACT-002 lit l’historique. Le droit de lecture médicale d’autres profils n’est pas accordé par leur seule participation aux soins.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1528,7 +1528,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-012** — ACT-002 oriente vers le séjour. Autorité d’admission/sortie et saisie de soins par ACT-003 non détaillées.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1630,7 +1630,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-013** — ACT-010 est mentionné pour saisie du résultat; ni validation ni publication ne lui sont implicitement attribuées.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1735,7 +1735,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-014** — Aucun profil de validation/publication du compte rendu n’est arrêté; présence ACT-002 est une participation arrêté pour la baseline.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1839,7 +1839,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-015** — ACT-008 intervient en pharmacie/stock; lecture limitée à l'identité et à la prescription active; aucune émission de facture.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -1942,7 +1942,7 @@ BR-012, BR-013
 
 **SEC-016** — ACT-004 émet la facture; attribution à ACT-001 en conflit entre UC-07 et matrice.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2048,7 +2048,7 @@ BR-012
 
 **SEC-017** — Facturation de séjour par ACT-004; saisie accueil et corrections après paiement arbitré par la baseline.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2157,7 +2157,7 @@ BR-007, BR-008
 
 **SEC-018** — ACT-004 facture l’organisme ACT-006. ACT-006 n’a pas d’accès applicatif direct confirmé.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2273,7 +2273,7 @@ BR-014
 
 **SEC-019** — ACT-004 enregistre les paiements; ACT-001 apparaît dans UC-08 mais pas dans la matrice. Payer ne signifie pas pouvoir modifier l’historique.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2380,7 +2380,7 @@ BR-008
 
 **SEC-020** — ACT-004 suit les écarts avec ACT-006; aucune remise de dette ni annulation de créance autorisée implicitement.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2486,7 +2486,7 @@ BR-009
 
 **SEC-021** — Déclencheur comptable ou système arrêté par la baseline. Archivage ne donne aucun droit de destruction ni réouverture.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2588,7 +2588,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-022** — ACT-004 accède au bouton; une identité CMRB ne fournit pas de session ni droit sur ACT-013.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2691,7 +2691,7 @@ BR-006
 
 **SEC-023** — ACT-005 : propre dossier seulement après liaison d’identité et arbitrage du périmètre; lecture ne permet pas de modifier le médical.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2794,7 +2794,7 @@ BR-005
 
 **SEC-024** — ACT-005 : propre ordonnance et condition temporelle; accès médecin non limité par cette mention patient.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -2896,7 +2896,7 @@ BR-006
 
 **SEC-025** — ACT-005 demande; approbateur défini par Q-005 : médecin auteur ou directeur médical délégué pour le clinique, responsable administratif pour l'administratif ou financier.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3002,7 +3002,7 @@ BR-018
 
 **SEC-026** — ACT-004 et ACT-009 sont cités pour rapports; export, détail patient et périmètres précis restent à attribuer.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3106,7 +3106,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-027** — ACT-007 gère le personnel; droit aux salaires ne s’étend pas aux autres données patient.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3209,7 +3209,7 @@ BR-011
 
 **SEC-028** — ACT-007 produit le bulletin, ACT-011 reçoit notification; aucun compte libre-service ni droit de validation de paie déduit.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3318,7 +3318,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-029** — ACT-008 gère les produits. Les droits d’achat avancé restent indéfinis.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3417,7 +3417,7 @@ Les exigences liées, règles transverses et décisions Q citées sont normative
 
 **SEC-030** — ACT-008 saisit mouvements et consulte stock; correction d’inventaire et retour non autorisés implicitement.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3520,7 +3520,7 @@ BR-017
 
 **SEC-031** — ACT-008 renseigne seuil; destinataire d’alerte et droit de changer une règle globale non fixés.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3626,7 +3626,7 @@ BR-016
 
 **SEC-032** — Tous les rôles protégés requièrent le contexte d'identité Q-025; l'inscription publique reste distincte et ne confère aucun droit avant vérification.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
@@ -3725,7 +3725,7 @@ BR-002, BR-016
 
 **SEC-033** — L'administrateur des habilitations est délégué par la direction. L'auto-attribution et le contournement des refus sont interdits; aucun rôle n'accorde un accès clinique implicite.
 
-La [matrice par action](../requirements/ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
+La [matrice par action](ROLE_PERMISSION_MATRIX.md) est normative. Le serveur contrôle rôle, action et ressource selon Q-025/Q-031; tout conflit ou droit absent produit un refus tracé. Une dérogation exige un accès d'urgence médical motivé ou une demande de changement approuvée.
 
 **Données.**
 
