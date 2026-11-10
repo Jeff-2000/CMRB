@@ -4759,7 +4759,7 @@ En approuvant ce dossier, le client accepte le périmètre V1, les 35 décisions
 
 | Pour le CMRB | Pour le prestataire |
 | --- | --- |
-| Nom :  | Nom :  |
-| Fonction :  | Fonction :  |
-| Date :  | Date :  |
-| Signature :  | Signature :  |
+| Nom : *...* | Nom : *Jeff PIERRE* |
+| Fonction : *...* | Fonction : *Concepteur du système · Statistician · Data Scientist · Full-Stack Systems Architect · Digital Consultant* |
+| Date : *...* | Date : *Mardi, 10 novembre 2026* |
+| Signature : *...* | Signature : *Jeff PIERRE* |
